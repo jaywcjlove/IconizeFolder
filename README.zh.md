@@ -9,6 +9,8 @@
 
 ![Iconize Folder Screenshots-1](https://github.com/jaywcjlove/IconizeFolder/assets/1680273/ca8da5ee-485f-4925-8c97-70b6fb35c0ef)
 
-为您的文件赋予独特风格，我们提供了5000多个多样化的符号图标供选择。不仅有预设的十多种丰富颜色，还支持根据个人喜好进行自定义调色板，让您的文件夹和文档彰显个性化和专属标识。让文件管理不再单调，尽享视觉盛宴！
+通过我们提供的5000多个独特符号图标，为您的文件注入独特的个性。选择超过十种预设的鲜明色彩，或者根据个人偏好定制您自己的配色方案。
 
 ![Iconize Folder Screenshots-2](https://github.com/jaywcjlove/IconizeFolder/assets/1680273/022c29cb-f934-4d56-a811-5164b88a5f8e)
+
+用个性化和独家标识提升您的文件夹和文档。将文件管理从单调转变为视觉盛宴！
