@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<br />
-	<img src="https://github.com/jaywcjlove/IconizeFolder/assets/1680273/754106ed-2783-4b5a-babd-52245496d428" width="160" height="160">
+	<img src="https://github.com/jaywcjlove/IconizeFolder/assets/1680273/6da84ad5-680e-41dc-840d-0f2e4de56ecc" width="160" height="160">
 	<h1>Iconize Folder</h1>
 </div>
 
