@@ -16,7 +16,7 @@ jobs:
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "TextSound Saver"
+          site: "Iconize Folder"
           keywords: Folder,FolderIcon,IconizeFolder,Icon
           favicon: assets/favicon.ico
           logo: ./assets/logo.png
