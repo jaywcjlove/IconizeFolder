@@ -7,9 +7,13 @@
 
 使用这个工具设置文件夹颜色并为文件夹添加小图标，保持您的文件有序，提高文件管理的效率。
 
-![Iconize Folder Screenshots-1](https://github.com/jaywcjlove/IconizeFolder/assets/1680273/ca8da5ee-485f-4925-8c97-70b6fb35c0ef)
+<a target="_blank" href="https://apps.apple.com/app/iconize-folder/id6478772538" title="Iconize Folder for macOS">
+  <img alt="DevHub AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+</a>
 
 通过我们提供的5000多个独特符号图标，为您的文件注入独特的个性。选择超过十种预设的鲜明色彩，或者根据个人偏好定制您自己的配色方案。
+
+![Iconize Folder Screenshots-1](https://github.com/jaywcjlove/IconizeFolder/assets/1680273/ca8da5ee-485f-4925-8c97-70b6fb35c0ef)
 
 ![Iconize Folder Screenshots-2](https://github.com/jaywcjlove/IconizeFolder/assets/1680273/022c29cb-f934-4d56-a811-5164b88a5f8e)
 
