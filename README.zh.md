@@ -1,3 +1,5 @@
+[English](./README.md)
+
 <div align="center">
 	<br />
 	<br />

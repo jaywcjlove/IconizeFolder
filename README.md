@@ -1,3 +1,5 @@
+[简体中文](./README.zh.md)
+
 <div align="center">
 	<br />
 	<br />
