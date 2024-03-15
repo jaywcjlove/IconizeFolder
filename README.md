@@ -1,10 +1,13 @@
-[简体中文](./README.zh.md)
-
 <div align="center">
 	<br />
 	<br />
 	<img src="https://github.com/jaywcjlove/IconizeFolder/assets/1680273/6da84ad5-680e-41dc-840d-0f2e4de56ecc" width="160" height="160">
 	<h1>Iconize Folder</h1>
+  <!--rehype:style=border: 0;-->
+	<p>
+		<a href="./README.zh.md">简体中文</a> • 
+		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
+	</p>
 </div>
 
 Set folder colors and add small icons to folders with this tool, keeping your files organized and improving efficiency in file management.
