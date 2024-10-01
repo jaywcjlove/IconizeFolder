@@ -13,7 +13,7 @@
 Set folder colors and add small icons to folders with this tool, keeping your files organized and improving efficiency in file management.
 
 <a target="_blank" href="https://apps.apple.com/app/iconize-folder/id6478772538" title="Iconize Folder for macOS">
-  <img alt="DevHub AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+  <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
 Infuse uniqueness into your files with over 5000 diverse symbol icons at your disposal. Choose from a palette of over ten preset vibrant colors or customize your own color scheme to suit personal preferences. 
