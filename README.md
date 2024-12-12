@@ -6,20 +6,22 @@
   <!--rehype:style=border: 0;-->
 	<p>
 		<a href="./README.zh.md">简体中文</a> • 
-		<a href="https://wangchujiang.com/#/contact">Contact & Support</a>
+		<a href="https://github.com/jaywcjlove/IconizeFolder/issues/new?assignees=jaywcjlove&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+IconizeFolder">Contact & Support</a> • 
+    <a href="https://github.com/jaywcjlove/IconizeFolder/releases">Changelog</a>
+	</p>
+	<p>
+		<a target="_blank" href="https://apps.apple.com/app/iconize-folder/id6478772538" title="Iconize Folder for macOS">
+			<img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+		</a>
 	</p>
 </div>
 
-Set folder colors and add small icons to folders with this tool, keeping your files organized and improving efficiency in file management.
+Use this tool to easily set folder colors and add small icons, enhancing your file management efficiency.
 
-<a target="_blank" href="https://apps.apple.com/app/iconize-folder/id6478772538" title="Iconize Folder for macOS">
-  <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
-</a>
+Choose from over 5,000 diverse symbol icons for a unique touch, and select from more than ten preset vibrant colors or customize your own color scheme to suit your preferences. Personalize your folders and documents with distinctive identifiers, transforming the mundane file management experience into a visually rich one.
 
-Infuse uniqueness into your files with over 5000 diverse symbol icons at your disposal. Choose from a palette of over ten preset vibrant colors or customize your own color scheme to suit personal preferences. 
+![Iconize Folder 1](https://github.com/jaywcjlove/IconizeFolder/assets/1680273/ca8da5ee-485f-4925-8c97-70b6fb35c0ef)
 
-![Iconize Folder Screenshots-1](https://github.com/jaywcjlove/IconizeFolder/assets/1680273/ca8da5ee-485f-4925-8c97-70b6fb35c0ef)
-
-![Iconize Folder Screenshots-2](https://github.com/jaywcjlove/IconizeFolder/assets/1680273/022c29cb-f934-4d56-a811-5164b88a5f8e)
+![Iconize Folder 2](https://github.com/jaywcjlove/IconizeFolder/assets/1680273/022c29cb-f934-4d56-a811-5164b88a5f8e)
 
 Elevate your folders and documents with personalized and exclusive identifiers. Transform file management from mundane to a visual feast – revel in the diversity!
