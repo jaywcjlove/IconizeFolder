@@ -28,3 +28,12 @@ jobs:
             <a target="_blank" href="https://apps.apple.com/app/iconize-folder/id6478772538" title="Iconize Folder for macOS">
               <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
             </a>
+      - name: Update README.md and README.zh.md
+        run: |
+          sed -i "s/<sup>v[0-9]*\.[0-9]*\.[0-9]*<\/sup>/<sup>${{ env.VERSION }}<\/sup>/g" README.md
+          sed -i "s/<sup>v[0-9]*\.[0-9]*\.[0-9]*<\/sup>/<sup>${{ env.VERSION }}<\/sup>/g" README.zh.md
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md README.zh.md
+          git commit -m "chore: Update README files with version ${{ env.VERSION }}"
+          git push origin HEAD:main
