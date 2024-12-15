@@ -22,14 +22,6 @@
 
 使用这个工具，可以轻松设置文件夹颜色并添加小图标，帮助你更高效地管理文件。
 
-选择来自超过 5000 种多样符号图标的独特性，选择十多种预设的鲜艳颜色，或自定义你的色彩方案，以满足个人偏好。让你的文件夹和文档充满个性化标识，改变单调的文件管理，让视觉效果更加丰富多彩。
-
-![Iconize Folder 1](./assets/screenshots-1.png)
-
-![Iconize Folder 2](./assets/screenshots-2.png)
-
-![Iconize Folder 3](./assets/screenshots-3.png)
-
 ## 功能特点
 
 - 超过 5000 种多样符号图标设置
@@ -37,5 +29,13 @@
 - 支持设置文件夹图标颜色
 - 支持快速将需要设置的文件夹路径导入到 Dock
 - 支持将文件夹图标导出为 icns 格式
+
+选择来自超过 5000 种多样符号图标的独特性，选择十多种预设的鲜艳颜色，或自定义你的色彩方案，以满足个人偏好。让你的文件夹和文档充满个性化标识，改变单调的文件管理，让视觉效果更加丰富多彩。
+
+![Iconize Folder 1](./assets/screenshots-1.png)
+
+![Iconize Folder 2](./assets/screenshots-2.png)
+
+![Iconize Folder 3](./assets/screenshots-3.png)
 
 用个性化和独家标识提升您的文件夹和文档。将文件管理从单调转变为视觉盛宴！
