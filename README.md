@@ -22,7 +22,7 @@
 
 Use this tool to easily set folder colors and add small icons, enhancing your file management efficiency.
 
-## Features
+### Features
 
 - Over 5000 diverse symbol icons to choose from
 - Adjustable symbol icon opacity and size
