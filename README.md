@@ -28,4 +28,14 @@ Choose from over 5,000 diverse symbol icons for a unique touch, and select from 
 
 ![Iconize Folder 2](./assets/screenshots-2.png)
 
+![Iconize Folder 3](./assets/screenshots-3.png)
+
+## Features
+
+- Over 5000 diverse symbol icons to choose from
+- Adjustable symbol icon opacity and size
+- Ability to set folder icon color
+- Quick import of folder paths into Dock for setting
+- Export folder icons as icns format
+
 Elevate your folders and documents with personalized and exclusive identifiers. Transform file management from mundane to a visual feast – revel in the diversity!

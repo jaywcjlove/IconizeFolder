@@ -28,4 +28,14 @@
 
 ![Iconize Folder 2](./assets/screenshots-2.png)
 
+![Iconize Folder 3](./assets/screenshots-3.png)
+
+## 功能特点
+
+- 超过 5000 种多样符号图标设置
+- 支持符号图标透明度大小设置
+- 支持设置文件夹图标颜色
+- 支持快速将需要设置的文件夹路径导入到 Dock
+- 支持将文件夹图标导出为 icns 格式
+
 用个性化和独家标识提升您的文件夹和文档。将文件管理从单调转变为视觉盛宴！
