@@ -4,8 +4,6 @@
   <img src="https://github.com/jaywcjlove/IconizeFolder/assets/1680273/6da84ad5-680e-41dc-840d-0f2e4de56ecc" width="160" height="160">
   <h1>
     Iconize Folder
-    <sup>v1.3.0</sup>
-    <!--rehype:style=font-size: 12px;top: 0;line-height: inherit;vertical-align: text-top;font-weight: 200;color: var(--color-fg-subtle);-->
   </h1>
   <!--rehype:style=border: 0;-->
   <p>
