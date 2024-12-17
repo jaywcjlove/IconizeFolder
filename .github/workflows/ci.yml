@@ -12,14 +12,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          commit_message: ${{ github.event.head_commit.message }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-
+          
       - name: Create Tag
         id: create_tag
         uses: jaywcjlove/create-tag-action@main
@@ -74,3 +67,11 @@ jobs:
           EOF
       - run: npm install idoc@1 -g
       - run: idoc
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          commit_message: ${{ github.event.head_commit.message }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+
