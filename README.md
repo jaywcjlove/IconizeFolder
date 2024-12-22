@@ -18,22 +18,23 @@
   </p>
 </div>
 
-Use this tool to easily set folder colors and add small icons, enhancing your file management efficiency.
-
-### Features
-
-- Over 5000 diverse symbol icons to choose from
-- Adjustable symbol icon opacity and size
-- Ability to set folder icon color
-- Quick import of folder paths into Dock for setting
-- Export folder icons as icns format
-
-Choose from over 5,000 diverse symbol icons for a unique touch, and select from more than ten preset vibrant colors or customize your own color scheme to suit your preferences. Personalize your folders and documents with distinctive identifiers, transforming the mundane file management experience into a visually rich one.
-
 ![Iconize Folder 1](./assets/screenshots-1.png)
 
 ![Iconize Folder 2](./assets/screenshots-2.png)
 
 ![Iconize Folder 3](./assets/screenshots-3.png)
 
-Elevate your folders and documents with personalized and exclusive identifiers. Transform file management from mundane to a visual feast – revel in the diversity!
+With this tool, you can easily set folder colors and add small icons to enhance the visual effect of your file management, helping you organize files more efficiently.
+
+Choose from over 5000 unique symbol icons or customize your color scheme. You can also select from more than a dozen preset vibrant colors or add image icons to the folder icons to suit your personal preferences, giving your folders a personalized identity and making file management more lively and layered.
+
+### Features
+
+- Over 5000 diverse symbol icons available  
+- Adjust the transparency and size of symbol icons  
+- Set folder icon colors  
+- Add image icons to folder icons  
+- Quickly import folder paths to the Dock  
+- Export folder icons as .icns format  
+
+New features include the ability to adjust the transparency and size of symbol icons, a wider selection of folder colors, and quick import of folder paths to the Dock. You can also export your custom folder icons as .icns files for use elsewhere.
