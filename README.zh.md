@@ -40,3 +40,12 @@ https://github.com/user-attachments/assets/58adcf38-dc69-4d33-aae1-ce059caf8c68?
 - 支持将文件夹图标导出为 .icns 格式  
 
 新增的功能包括符号图标的透明度与大小调整、丰富的文件夹颜色选择、以及快速导入文件夹路径到 Dock。你还可以将自定义的文件夹图标导出为 .icns 格式，方便在其他地方使用。
+
+### URL Schemes
+
+使用此 URL Scheme 可以快速打开指定路径的文件夹。例如，`iconizefolder:///Users/wangchujiang/Desktop/test/` 将打开桌面上的 `test` 文件夹。
+
+```url
+iconizefolder://<文件夹路径>
+iconizefolder:///Users/wangchujiang/Desktop/test/
+```

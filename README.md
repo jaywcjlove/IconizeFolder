@@ -40,3 +40,12 @@ Choose from over 5000 unique symbol icons or customize your color scheme. You ca
 - Export folder icons as .icns format  
 
 New features include the ability to adjust the transparency and size of symbol icons, a wider selection of folder colors, and quick import of folder paths to the Dock. You can also export your custom folder icons as .icns files for use elsewhere.
+
+### URL Schemes
+
+Use this URL Scheme to quickly open a folder at a specified path. For example, `iconizefolder:///Users/wangchujiang/Desktop/test/` will open the `test` folder on the desktop.
+
+```url
+iconizefolder://<文件夹路径>
+iconizefolder:///Users/wangchujiang/Desktop/test/
+```

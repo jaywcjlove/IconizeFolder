@@ -13,6 +13,13 @@ Changelog
 
 1. 添加对 URL Schemes 的支持
 
+---
+
+```url
+iconizefolder://<文件夹路径>
+iconizefolder:///Users/wangchujiang/Desktop/test/
+```
+
 ## [v1.4.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.4.0)
 
 1. feat: Add image icon caching functionality.
