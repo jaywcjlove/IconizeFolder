@@ -5,6 +5,14 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.5.1)
+
+1. fix: resolve folder permission issue.
+
+---
+
+1. 修复: 修复了文件夹权限问题。
+
 ## [v1.5.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.5.0)
 
 1. Add support for URL Schemes
