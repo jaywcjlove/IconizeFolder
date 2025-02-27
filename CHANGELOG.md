@@ -5,6 +5,14 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.2](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.5.2)
+
+1. feat: sort symbol icons by category letters.
+
+---
+
+1. 新增: 按照分类字母排序符号图标。 
+
 ## [v1.5.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.5.1)
 
 1. fix: resolve folder permission issue.
