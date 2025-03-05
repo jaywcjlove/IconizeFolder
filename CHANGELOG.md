@@ -5,6 +5,14 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.6.1)
+
+1. fix: fix issue with single color icon setting.
+
+---
+
+1. 修复: 修复单色图标设置问题。
+
 ## [v1.6.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.6.0)
 
 1. feat: Add a prompt to import a new icon.
