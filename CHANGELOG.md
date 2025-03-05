@@ -5,6 +5,16 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.6.0)
+
+1. feat: Add a prompt to import a new icon.
+2. feat: Implement update checking.
+
+---
+
+1. 新增: 添加导入新图标的提示。
+2. 新增: 增加更新检查功能。
+
 ## [v1.5.2](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.5.2)
 
 1. feat: sort symbol icons by category letters.
