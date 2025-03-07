@@ -5,6 +5,24 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.0)
+
+1. fix: Fix issue with restoring selected parameters.
+2. feat: Add icon offset setting.
+3. fix: Fix issue with symbol icon category data.
+4. feat: Add small icons to the category list.
+5. chore: Update command menus.
+6. fix: Fix issue with dragging specific folders.
+
+---
+
+1. 修复：修复了恢复选中参数的问题。
+2. 功能：新增图标偏移设置。
+3. 修复：修复了符号图标分类数据的问题。
+4. 功能：在分类列表中新增小图标。
+5. 杂项：更新了命令菜单。
+6. 修复：修复了拖动特定文件夹时的问题。
+
 ## [v1.6.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.6.1)
 
 1. fix: fix issue with single color icon setting.
