@@ -5,6 +5,16 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.1)
+
+1. Fix issue with single-color icon setting option.
+2. Fix issue with opacity parameter setting.
+
+---
+
+1. 修复单色图标设置选项错误问题。
+2. 修复不透明度参数设置问题。
+
 ## [v1.7.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.0)
 
 1. fix: Fix issue with restoring selected parameters.
