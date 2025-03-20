@@ -5,6 +5,16 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.2](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.2)
+
+- Fix: Resolve icon offset setting issue. 
+- Chore: Check the existence of receipts. 
+
+---
+
+- 修复: 解决图标偏移设置问题。 
+- 任务: 检查收据的存在性。 
+
 ## [v1.7.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.1)
 
 1. Fix issue with single-color icon setting option.
