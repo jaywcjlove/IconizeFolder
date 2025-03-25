@@ -5,6 +5,14 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.3](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.3)
+
+1. Fix: Fix a critical bug urgently
+
+---
+
+1. 修复：紧急修复一个严重的 bug
+
 ## [v1.7.2](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.2)
 
 - Fix: Resolve icon offset setting issue. 
