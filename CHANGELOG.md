@@ -5,6 +5,14 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.4](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.4)
+
+1. fix: correct icon categorization error.
+
+---
+
+1. fix: 修复图标分类错误
+
 ## [v1.7.3](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.3)
 
 1. Fix: Fix a critical bug urgently
