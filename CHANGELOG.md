@@ -5,6 +5,16 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.8.0)
+
+1. feat: add color support for monochrome icons.
+2. feat: update color picker.
+
+---
+
+1. feat: 添加单色图标的颜色支持。
+2. feat: 更新颜色选择器。
+
 ## [v1.7.4](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.7.4)
 
 1. fix: correct icon categorization error.
