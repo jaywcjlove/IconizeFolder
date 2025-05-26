@@ -8,8 +8,8 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.md">English</a> • 
-    <a href="https://github.com/jaywcjlove/IconizeFolder/issues/new?assignees=jaywcjlove&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report_cn.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%E6%94%AF%E6%8C%81%E4%B8%8E%E5%8F%8D%E9%A6%88%3A+IconizeFolder">联系&支持</a> • 
-    <a href="https://github.com/jaywcjlove/IconizeFolder/releases">变更日志</a>
+    <a target="_blank" href="https://github.com/jaywcjlove/IconizeFolder/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
+    <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/iconize-folder/id6478772538" title="Iconize Folder for macOS">
