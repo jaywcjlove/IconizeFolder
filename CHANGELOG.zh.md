@@ -10,6 +10,11 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.10.0)
+
+1. 新增：支持从剪切板导入图标
+2. 修复：字体选择未保存的问题
+
 ## [v1.9.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.9.0)
 
 1. 新增：支持为文件图标添加文本内容

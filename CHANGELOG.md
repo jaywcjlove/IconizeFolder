@@ -10,6 +10,11 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.10.0)
+
+1. feat: support importing icon from clipboard
+2. fix: font selection not saved
+
 ## [v1.9.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.9.0)
 
 1. feat: Support adding text to file icons
