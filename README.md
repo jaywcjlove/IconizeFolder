@@ -26,7 +26,8 @@ https://github.com/user-attachments/assets/58adcf38-dc69-4d33-aae1-ce059caf8c68?
 
 ![Iconize Folder 3](./assets/screenshots-3.png)
 
-Easily customize folder colors and add icons to enhance file management clarity and efficiency. Choose from over 5000 symbol icons, customize color schemes, or add image icons and emojis to create personalized, visually distinctive folders.
+With this tool, you can easily customize folder colors and icons, making file management more intuitive and efficient. Choose from over 5,000 symbol icons, create your own color schemes, add image icons or Emojis, and even insert text in various fonts.
+Design personalized folders that stand out visually and enhance overall clarity.
 
 ### Features
 
