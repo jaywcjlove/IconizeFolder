@@ -10,6 +10,13 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.11.0)
+
+1. feat: Add emoji icon for input.
+2. fix: Resolve issue with main menu.
+3. fix: Fix internationalization (i18n) problem.
+4. ui: Improve the UI display of the folder list.
+
 ## [v1.10.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.10.0)
 
 1. feat: support importing icon from clipboard

@@ -10,6 +10,13 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.11.0)
+
+1. 新增：为输入框添加 Emoji 图标。
+2. 修复：修复主菜单相关问题。
+3. 修复：修复国际化（i18n）问题。
+4. 界面：优化文件夹列表的界面显示。
+
 ## [v1.10.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.10.0)
 
 1. 新增：支持从剪切板导入图标
