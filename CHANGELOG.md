@@ -10,6 +10,12 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.0.0)
+
+1. feat: Add option to set icon size
+2. perf: Optimized app refactoring to fix memory leaks
+3. ui: Adjusted UI layout to enhance user experience
+
 ## [v1.11.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.11.0)
 
 1. feat: Add emoji icon for input.

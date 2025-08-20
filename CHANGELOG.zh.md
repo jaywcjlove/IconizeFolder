@@ -10,6 +10,12 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.0.0)
+
+1. feat: 新增设置图标尺寸选项
+2. perf: 优化应用重构，解决内存泄漏问题
+3. ui: 调整界面布局，提升用户体验
+
 ## [v1.11.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v1.11.0)
 
 1. 新增：为输入框添加 Emoji 图标。
