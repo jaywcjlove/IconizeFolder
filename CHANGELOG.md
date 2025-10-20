@@ -10,6 +10,11 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.0.0)
+
+1. feat: add support for macOS 26.
+2. ui: update About interface.
+
 ## [v2.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.0.0)
 
 1. feat: Add option to set icon size

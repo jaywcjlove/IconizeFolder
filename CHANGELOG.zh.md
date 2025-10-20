@@ -10,6 +10,11 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.0.0)
+
+1. 功能：新增对 macOS 26 的支持。
+2. 界面：更新 About（关于）界面。
+
 ## [v2.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v2.0.0)
 
 1. feat: 新增设置图标尺寸选项
