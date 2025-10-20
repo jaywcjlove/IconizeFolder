@@ -18,8 +18,6 @@
   </p>
 </div>
 
-https://github.com/user-attachments/assets/22dd5592-bb94-4468-84a5-2137842c2728?title=Iconize%20Folder&rehype=video
-
 ![Iconize Folder](./assets/IconizeFolder.gif)
 
 ![Iconize Folder 1](./assets/screenshots-1.png)
