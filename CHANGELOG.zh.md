@@ -10,6 +10,11 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.1.0)
+
+1: feat: 新增打开文件夹的快捷键。
+2: fix: 修复 URL Schemes 授权/权限问题。
+
 ## [v3.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.0.0)
 
 1. 功能：新增对 macOS 26 的支持。

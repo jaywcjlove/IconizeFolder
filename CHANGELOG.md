@@ -10,6 +10,11 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.1.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.1.0)
+
+1: feat: Add shortcut for opening folder.
+2: fix: Fix URL Schemes authorization/permission issue.
+
 ## [v3.0.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.0.0)
 
 1. feat: add support for macOS 26.
