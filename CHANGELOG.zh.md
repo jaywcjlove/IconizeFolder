@@ -10,6 +10,11 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.2.0)
+
+1. perf: 优化颜色选择器。
+2. fix: 修复菜单国际化问题。
+
 ## [v3.1.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.1.0)
 
 1: feat: 新增打开文件夹的快捷键。

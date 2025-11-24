@@ -10,6 +10,11 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.2.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.2.0)
+
+1. perf: Optimize color picker.
+2. fix: Resolve menu localization issues.
+
 ## [v3.1.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.1.0)
 
 1: feat: Add shortcut for opening folder.
