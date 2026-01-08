@@ -10,6 +10,12 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.3.0)
+
+1. perf: optimize performance of folder drag-and-drop loading 
+2. fix: Fix internationalization display error. 
+3. fix: Resolve issue with paid unlock verification error. 
+
 ## [v3.2.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.2.0)
 
 1. perf: Optimize color picker.

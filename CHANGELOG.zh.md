@@ -10,6 +10,12 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.3.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.3.0)
+
+1. perf: 优化拖拽加载文件夹的性能
+2. fix: 修复国际化显示错误
+3. fix: 解决付费解锁验证错误问题
+
 ## [v3.2.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.2.0)
 
 1. perf: 优化颜色选择器。
