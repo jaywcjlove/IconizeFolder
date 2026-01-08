@@ -45,6 +45,6 @@ New features include the ability to adjust the transparency and size of symbol i
 Use this URL Scheme to quickly open a folder at a specified path. For example, `iconizefolder:///Users/wangchujiang/Desktop/test/` will open the `test` folder on the desktop.
 
 ```url
-iconizefolder://<文件夹路径>
+iconizefolder://<Folder Path>
 iconizefolder:///Users/wangchujiang/Desktop/test/
 ```
