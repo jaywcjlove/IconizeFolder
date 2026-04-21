@@ -6,7 +6,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/iconize-folder/id6478772538" title="Iconize Folder for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6478772538" title="Iconize Folder for macOS">
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
