@@ -10,6 +10,14 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.4.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.4.0)
+
+1. 重构：简化文件夹拖放高亮遮罩样式
+2. 更新：更换应用图标
+3. 优化：通过目录缓存与懒加载预览提升字体选择器加载速度
+4. 修复：修复 macOS 27 下的一些已知问题
+5. 新增：添加 de/it/ja/ko/ru/zh-Hant 语言
+
 ## [v3.3.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.3.0)
 
 1. perf: 优化拖拽加载文件夹的性能

@@ -10,6 +10,14 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.4.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.4.0)
+
+1. refactor: Simplify folder drop highlight overlay
+2. chore: Update app icon
+3. perf: Improve font picker speed with catalog cache and lazy previews
+4. fix: Resolve known issues on macOS 27
+5. feat: add de/it/ja/ko/ru/zh-Hant language.
+
 ## [v3.3.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.3.0)
 
 1. perf: optimize performance of folder drag-and-drop loading 
