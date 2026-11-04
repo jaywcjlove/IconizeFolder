@@ -10,6 +10,12 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.0)
+
+1. feat: 添加带阴影重着色效果的 Finder 文件夹图标
+2. fix: 说明文件夹图标应用失败的原因
+3. fix: 通过 CGContext Alpha 将文本透明度应用于 Emoji
+
 ## [v3.4.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.4.0)
 
 1. 重构：简化文件夹拖放高亮遮罩样式

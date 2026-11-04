@@ -10,6 +10,12 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.0)
+
+1. feat: add Finder folder icon with shaded recolor
+2. fix: explain why applying folder icons failed
+3. fix: apply text opacity to emoji via CGContext alpha
+
 ## [v3.4.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.4.0)
 
 1. refactor: Simplify folder drop highlight overlay
