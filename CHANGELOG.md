@@ -10,6 +10,12 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.1)
+
+1. fix: keep folder preview colors when selection is cleared 
+2. fix: apply custom icons over a Finder emoji or symbol 
+3. fix: keep folder preview working after Apply
+
 ## [v3.5.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.0)
 
 1. feat: add Finder folder icon with shaded recolor

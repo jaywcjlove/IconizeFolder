@@ -10,6 +10,12 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.1)
+
+1. 修复：取消选择后保留文件夹预览颜色。
+2. 修复：支持在 Finder 表情符号或符号图标上应用自定义图标。
+3. 修复：应用图标后仍能正常显示文件夹预览。
+
 ## [v3.5.0](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.0)
 
 1. feat: 添加带阴影重着色效果的 Finder 文件夹图标
