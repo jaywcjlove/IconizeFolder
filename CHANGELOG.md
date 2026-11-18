@@ -10,6 +10,10 @@ Changelog
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.2](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.2)
+
+1. fix: Improved purchase status handling and reliability.
+
 ## [v3.5.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.1)
 
 1. fix: keep folder preview colors when selection is cleared 

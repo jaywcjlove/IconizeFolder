@@ -10,6 +10,10 @@
   <img alt="Iconize Folder AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v3.5.2](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.2)
+
+1. fix: 优化购买状态处理，提升稳定性。
+
 ## [v3.5.1](https://github.com/jaywcjlove/IconizeFolder/releases/tag/v3.5.1)
 
 1. 修复：取消选择后保留文件夹预览颜色。
